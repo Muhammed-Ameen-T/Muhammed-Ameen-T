@@ -21,9 +21,7 @@
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/user-attachments/assets/bc3970b3-6e35-4e80-a4dd-022a972c4dd4)
-"></path>
-</svg>" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/bootstrap_5968672?term=bootstrap&page=1&position=1&origin=search&related_id=5968672" alt="bootstrap" width="40" height="40"/> </a>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 
