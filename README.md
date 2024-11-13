@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  **Rozeto E-Commerce App**<br>👯 I’m looking to collaborate<br>🤝 I’m looking for help with<br>🌱 I’m currently learning  **MERN Stack**<br>💬 Ask me about  **Node, MongoDB** , ect..<br>⚡ Fun fact ****
+🔭 I’m currently working on  **Rozeto E-Commerce App**<br>🌱 I’m currently learning  **MERN Stack**<br>💬 Ask me about  **Node, MongoDB** , ect..<br>⚡ Fun fact **I am not Funny at All**
 
 
 ## 🌐 Socials:
