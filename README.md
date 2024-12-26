@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  **Rozeto E-Commerce App**<br>🌱 I’m currently learning  **MERN Stack**<br>💬 Ask me about  **Node, MongoDB** , ect..<br>⚡ Fun fact **GitHub has a secret "octocat" easter egg. If                                                                          &nbsp;                       you create a repository named "octocat", a special animation of the Octocat will appear on the repository's page!**
+🔭 I’m currently working on  **Rozeto E-Commerce App**<br>🌱 I’m currently learning  **MERN Stack**<br>💬 Ask me about  **Node, MongoDB** , ect..<br>⚡ Fun fact **GitHub has a secret "octocat" easter egg. If   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you create a repository named "octocat", a special animation of the Octocat will appear on the repository's page!**
 
 
 ## 🌐 Socials:
