@@ -1,3 +1,5 @@
+## Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35" height="35" /> I'm Ameen
+
 # 💫 About Me:
 🔭 I’m currently working on  **Rozeto E-Commerce App**<br>🌱 I’m currently learning  **MERN Stack**<br>💬 Ask me about  **React, Node, MongoDB** , ect..<br>⚡ Fun fact: **GitHub has a secret "octocat" easter egg. If   you create a repository named "octocat", a special animation of the Octocat will appear on the repository's page!**
 
