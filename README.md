@@ -20,7 +20,7 @@
   <img src="https://leetcard.jacoblin.cool/mhdAmeenT?theme=light&font=Roboto&ext=heatmap" width="70%" />
 <br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Muhammed-Ameen-T&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Ameen-T&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Ameen-T&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
