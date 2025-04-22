@@ -94,6 +94,7 @@ I'm a passionate full-stack developer with a strong focus on creating responsive
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Ameen-T&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" />
 </div>
+  <br>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
