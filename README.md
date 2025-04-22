@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Ameen
+# Hello World <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35" height="35" /> I'm Ameen
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;AWS+Cloud+Enthusiast" alt="Typing SVG" />
@@ -75,7 +75,7 @@ I'm a passionate full-stack developer with a strong focus on creating responsive
 
 <div align="center">
   <a href="https://github.com/Muhammed-Ameen-T/cenify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Ameen-T&repo=cenify&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Ameen-T&repo=cenify-movies-events&theme=tokyonight" />
   </a>
   <!-- Add more projects as needed -->
 </div>
