@@ -18,7 +18,7 @@
 - 🌱 Learning **Next.js, GraphQL, Docker, Kubernetes**
 - 💬 Ask me about **React, Node, MongoDB, Express**
 - ⚡ Fun fact: **GitHub has a secret "octocat" easter egg. If you create a repository named "octocat", a special animation of the Octocat will appear on the repository's page!**
-- 📫 How to reach me: [muhammed.ameen.t@gmail.com](mailto:your.email@example.com)
+- 📫 How to reach me: [mhdameent2006@gmail.com](mailto:your.email@example.com)
 
 <details>
 <summary>More about me</summary>
