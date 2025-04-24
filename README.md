@@ -73,6 +73,9 @@ I'm a passionate full-stack developer with a strong focus on creating responsive
   <a href="https://github.com/Muhammed-Ameen-T/cenify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Ameen-T&repo=cenify-movies-events&theme=tokyonight" />
   </a>
+  <a href="https://github.com/Muhammed-Ameen-T/cenify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Ameen-T&repo=Rozeto-ecommerce-app&theme=tokyonight" />
+  </a>
   <!-- Add more projects as needed -->
 </div>
 
