@@ -29,8 +29,6 @@ I'm a passionate full-stack developer with a strong focus on creating responsive
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack
 
 <div align="center">
-### Frontend
-
   
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
