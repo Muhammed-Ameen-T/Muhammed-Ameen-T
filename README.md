@@ -105,7 +105,6 @@ I'm a passionate full-stack developer with a strong focus on creating responsive
 </div>
 
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Muhammed-Ameen-T/cenify-movies-events?style=social)
 
 ---
 
