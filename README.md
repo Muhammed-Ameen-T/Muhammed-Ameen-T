@@ -104,6 +104,9 @@ I'm a passionate full-stack developer with a strong focus on creating responsive
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
 </div>
 
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Muhammed-Ameen-T/REPO?style=social)
+
 ---
 
 <div align="center">
