@@ -73,17 +73,88 @@ I'm a passionate full-stack developer with a strong focus on creating responsive
 </div>
 
 ## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40"> Projects
-
 <div align="center">
-  <a href="https://github.com/Muhammed-Ameen-T/cenify-movies-events">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Ameen-T&repo=cenify-movies-events&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Muhammed-Ameen-T/Rozeto-ecommerce-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Ameen-T&repo=Rozeto-ecommerce-app&theme=tokyonight" />
-  </a>
-  
-  <!-- Add more projects as needed -->
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎬 Cenify - Movie Ticket Booking Platform
+A comprehensive movie ticket booking platform with real-time seat selection, secure payment integration, and dynamic pricing.
+
+**Tech Stack:** `Next.js` `Node.js` `MongoDB` `Redis` `Stripe`
+
+**Features:**
+- Real-time seat availability
+- QR code ticket generation
+- Multi-theater support
+- Advanced search & filters
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/muhammedAmeenT/cenify)
+[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://cenify-demo.vercel.app)
+
+</td>
+<td width="50%">
+
+### 🛒 E-Commerce Marketplace
+Full-stack e-commerce platform with vendor management, inventory tracking, and analytics dashboard.
+
+**Tech Stack:** `React` `Express.js` `PostgreSQL` `AWS S3`
+
+**Features:**
+- Multi-vendor support
+- Advanced product filtering
+- Order tracking system
+- Admin analytics panel
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/muhammedAmeenT/ecommerce-marketplace)
+[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://ecommerce-demo.vercel.app)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Real-Time Chat Application
+Feature-rich chat application with end-to-end encryption, group chats, and multimedia sharing.
+
+**Tech Stack:** `React` `Socket.io` `Node.js` `MongoDB` `Docker`
+
+**Features:**
+- Real-time messaging
+- Group & private chats
+- File & media sharing
+- Online status indicators
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/muhammedAmeenT/realtime-chat)
+[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://chat-app-demo.vercel.app)
+
+</td>
+<td width="50%">
+
+### 🎯 Task Management Dashboard
+Collaborative project management tool with Kanban boards, team collaboration, and progress tracking.
+
+**Tech Stack:** `Next.js` `TypeScript` `PostgreSQL` `Tailwind CSS`
+
+**Features:**
+- Drag-and-drop Kanban boards
+- Team collaboration tools
+- Sprint planning & tracking
+- Real-time notifications
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/muhammedAmeenT/task-management)
+[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://taskboard-demo.vercel.app)
+
+</td>
+</tr>
+</table>
+
 </div>
+
+---
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> LeetCode Stats
 
