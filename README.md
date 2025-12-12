@@ -15,10 +15,10 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-- 🔭 Currently building **Cenify Movie Ticket Booking Platform**
+- 🔭 Currently building **Skill Forge AI**
 - 🌱 Learning **Next.js, GraphQL, Docker, Kubernetes**
 - 💬 Ask me about **React, Node, MongoDB, Express**
-- ⚡ Fun fact: **GitHub has a secret "octocat" easter egg. If you create a repository named "octocat", a special animation of the Octocat will appear on the repository's page!**
+- ⚡ Fun fact: **GitHub has secret "octocat" easter eggs hidden throughout!**
 - 📫 How to reach me: [mhdameent2006@gmail.com](mailto:your.email@example.com)
 
 <details>
