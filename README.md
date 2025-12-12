@@ -72,18 +72,7 @@ I'm a passionate full-stack developer with a strong focus on creating responsive
 
 </div>
 
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40"> Projects
 
-<div align="center">
-  <a href="https://github.com/Muhammed-Ameen-T/cenify-movies-events">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Ameen-T&repo=cenify-movies-events&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Muhammed-Ameen-T/Rozeto-ecommerce-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammed-Ameen-T&repo=Rozeto-ecommerce-app&theme=tokyonight" />
-  </a>
-  
-  <!-- Add more projects as needed -->
-</div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> LeetCode Stats
 
