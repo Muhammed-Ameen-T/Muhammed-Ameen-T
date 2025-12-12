@@ -90,13 +90,13 @@ A comprehensive movie ticket booking platform with real-time seat selection, sec
 - Multi-theater support
 - Advanced search & filters
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/muhammedAmeenT/cenify)
-[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://cenify-demo.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Muhammed-Ameen-T/cenify-movies-events)
+[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://cenify.muhammedameent.me)
 
 </td>
 <td width="50%">
 
-### 🛒 E-Commerce Marketplace
+### 🛒 Rozeto - E-Commerce Platform
 Full-stack e-commerce platform with vendor management, inventory tracking, and analytics dashboard.
 
 **Tech Stack:** `Node.js` `Express.js` `MongoDB` `Cloudinary` `Razorpay`
@@ -108,7 +108,7 @@ Full-stack e-commerce platform with vendor management, inventory tracking, and a
 - Admin analytics panel
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/muhammedAmeenT/ecommerce-marketplace)
-[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://ecommerce-demo.vercel.app)
+[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://rozeto.muhammedameent.me)
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ Feature-rich chat application with end-to-end encryption, group chats, and multi
 - Online status indicators
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/muhammedAmeenT/realtime-chat)
-[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://chat-app-demo.vercel.app)
+<!--[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://) -->
 
 </td>
 <td width="50%">
@@ -145,6 +145,7 @@ Collaborative project management tool with Kanban boards, team collaboration, an
 - Real-time notifications
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/muhammedAmeenT/task-management)
+<!--[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://) -->
 
 </td>
 </tr>
