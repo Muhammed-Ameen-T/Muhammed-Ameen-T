@@ -80,7 +80,7 @@ I'm a passionate full-stack developer with a strong focus on creating responsive
   <img src="https://leetcard.jacoblin.cool/mhdAmeenT?theme=dark&font=Roboto&ext=heatmap" width="60%" />
 </div>
 
-## <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="40"> GitHub Stats
+<!-- ## <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="40"> GitHub Stats -->
 
 <!-- <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhammed-Ameen-T&theme=tokyonight&hide_border=false" width="48%" />
