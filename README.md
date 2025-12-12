@@ -94,10 +94,10 @@ I'm a passionate full-stack developer with a strong focus on creating responsive
 ## <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="40"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammed-Ameen-T&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Ameen-T&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhammed-Ameen-T&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muhammed-Ameen-T&theme=tokyonight&hide_border=false" width="48%" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Ameen-T&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="40%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Muhammed-Ameen-T&theme=tokyonight&hide_border=false&layout=compact" width="40%" />
 </div>
   <br>
 
