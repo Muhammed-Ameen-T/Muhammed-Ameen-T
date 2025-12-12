@@ -99,7 +99,7 @@ A comprehensive movie ticket booking platform with real-time seat selection, sec
 ### 🛒 E-Commerce Marketplace
 Full-stack e-commerce platform with vendor management, inventory tracking, and analytics dashboard.
 
-**Tech Stack:** `React` `Express.js` `PostgreSQL` `AWS S3`
+**Tech Stack:** `Node.js` `Express.js` `MongoDB` `Cloudinary` `Razorpay`
 
 **Features:**
 - Multi-vendor support
