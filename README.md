@@ -82,7 +82,7 @@ I'm a passionate full-stack developer with a strong focus on creating responsive
 ### 🎬 Cenify - Movie Ticket Booking Platform
 A comprehensive movie ticket booking platform with real-time seat selection, secure payment integration, and dynamic pricing.
 
-**Tech Stack:** `Next.js` `Node.js` `MongoDB` `Redis` `Stripe`
+**Tech Stack:** `React` `Node.js` `MongoDB` `Express.js` `Redis` `Stripe` `Redux` `Tailwind` `Socker.io` `Docker`
 
 **Features:**
 - Real-time seat availability
@@ -116,10 +116,10 @@ Full-stack e-commerce platform with vendor management, inventory tracking, and a
 <tr>
 <td width="50%">
 
-### 📱 Real-Time Chat Application
+### 📱 Adhaar OCR System
 Feature-rich chat application with end-to-end encryption, group chats, and multimedia sharing.
 
-**Tech Stack:** `React` `Socket.io` `Node.js` `MongoDB` `Docker`
+**Tech Stack:** `React` `Express.js` `Node.js` `MongoDB` `Google Vision` `Docker`
 
 **Features:**
 - Real-time messaging
@@ -136,7 +136,7 @@ Feature-rich chat application with end-to-end encryption, group chats, and multi
 ### 🎯 Task Management Dashboard
 Collaborative project management tool with Kanban boards, team collaboration, and progress tracking.
 
-**Tech Stack:** `Next.js` `TypeScript` `PostgreSQL` `Tailwind CSS`
+**Tech Stack:** `Next.js` `TypeScript` `MongoDB` `Cloudinary` `Tailwind CSS`
 
 **Features:**
 - Drag-and-drop Kanban boards
@@ -145,7 +145,6 @@ Collaborative project management tool with Kanban boards, team collaboration, an
 - Real-time notifications
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/muhammedAmeenT/task-management)
-[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://taskboard-demo.vercel.app)
 
 </td>
 </tr>
