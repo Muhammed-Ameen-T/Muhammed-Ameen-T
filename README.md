@@ -17,8 +17,8 @@
 
 - 🔭 Currently building **Cenify Movie Ticket Booking Platform**
 - 🌱 Learning **Next.js, GraphQL, Docker, Kubernetes**
-- 💬 Ask me about **React, Node, MongoDB, Express**
-- ⚡ Fun fact: **GitHub has a secret "octocat" easter egg. If you create a repository named "octocat", a special animation of the Octocat will appear on the repository's page!**
+- 💬 Ask me about **React, Node, MongoDB, Express, Postgres**
+- ⚡ Fun fact: **GitHub has secret "octocat" easter eggs hidden throughout!**
 - 📫 How to reach me: [mhdameent2006@gmail.com](mailto:your.email@example.com)
 
 <details>
@@ -102,12 +102,12 @@ Full-stack e-commerce platform with vendor management, inventory tracking, and a
 **Tech Stack:** `Node.js` `Express.js` `MongoDB` `Cloudinary` `Razorpay`
 
 **Features:**
-- Multi-vendor support
+- User Profile, Wallet and Order History
 - Advanced product filtering
 - Order tracking system
 - Admin analytics panel
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/muhammedAmeenT/ecommerce-marketplace)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Muhammed-Ameen-T/Rozeto-ecommerce-app)
 [![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://rozeto.muhammedameent.me)
 
 </td>
@@ -117,34 +117,34 @@ Full-stack e-commerce platform with vendor management, inventory tracking, and a
 <td width="50%">
 
 ### 📱 Adhaar OCR System
-Feature-rich chat application with end-to-end encryption, group chats, and multimedia sharing.
+Adhaar Detailes Parsing System Build with Google Vision API.
 
-**Tech Stack:** `React` `Express.js` `Node.js` `MongoDB` `Google Vision` `Docker`
+**Tech Stack:** `React` `Express.js` `Node.js` `MongoDB` `Google Vision` 
 
 **Features:**
-- Real-time messaging
-- Group & private chats
-- File & media sharing
-- Online status indicators
+- Adhaar Image Front and Back Upload Functionality
+- Detailed Image Validation
+- Data Parsing Using Google Vision
+- Detailed Data Validation
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/muhammedAmeenT/realtime-chat)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Muhammed-Ameen-T/aadhaar-ocr-mern)
 <!--[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://) -->
 
 </td>
 <td width="50%">
 
-### 🎯 Task Management Dashboard
-Collaborative project management tool with Kanban boards, team collaboration, and progress tracking.
+### 🎯 Stock Image Platform
+Image Storing Platform With Bulk Image Upload with user Authentication.
 
-**Tech Stack:** `Next.js` `TypeScript` `MongoDB` `Cloudinary` `Tailwind CSS`
+**Tech Stack:** `Next.js` `TypeScript` `MongoDB` `Cloudinary` `Tailwind`
 
 **Features:**
-- Drag-and-drop Kanban boards
-- Team collaboration tools
-- Sprint planning & tracking
-- Real-time notifications
+- JWT Authentication Sign Up and Login
+- Bulk Image Upload with Cloudinary Storage
+- Image Edit and Delete Feature
+- Image Rearrangement
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/muhammedAmeenT/task-management)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Muhammed-Ameen-T/Rozeto-ecommerce-app)
 <!--[![Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://) -->
 
 </td>
