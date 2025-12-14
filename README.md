@@ -15,7 +15,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-- 🔭 Currently building **Cenify Movie Ticket Booking Platform**
+- 🔭 Currently building **Skill Forge AI**
 - 🌱 Learning **Kafka, GraphQL, Bun, Kubernetes**
 - 💬 Ask me about **React, Node, MongoDB, Express, Postgres**
 - ⚡ Fun fact: **GitHub has secret "octocat" easter eggs hidden throughout!**
