@@ -164,10 +164,10 @@ Image Storing Platform With Bulk Image Upload with user Authentication.
 
 ## <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="40"> GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Ameen-T&theme=tokyonight&hide_border=false" width="48%" />
-  <br />
-</div>
+<p align="left">
+ <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Muhammed-Ameen-T&show_icons=true&theme=dark" height="160"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Muhammed-Ameen-T&layout=compact&theme=dark&hide=perl,roff,html,css,makefile,shaderlab,hlsl,shell,dockerfile,objective-c" height="160"/>
+</p>
   <br>
 
 <div align="center">
